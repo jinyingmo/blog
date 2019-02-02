@@ -29,9 +29,9 @@ $ hexo generate
 
 More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### Deploy to remote sites 1
 
-``` bash
+``` bash deploy
 $ hexo deploy
 ```
 
